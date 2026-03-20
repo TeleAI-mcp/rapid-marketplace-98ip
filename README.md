@@ -1,2 +1,3 @@
-# rapid-marketplace-98ip
-Automated issue comment bot repository
+# Rapid Marketplace 98Ip
+
+Automated issue comment bot repository.
